@@ -1,0 +1,84 @@
+{
+  "package": "tvc-ai-director-universal",
+  "edition": "通用中文版",
+  "version": "1.0.0-zh",
+  "build_date": "2026-11-05",
+  "file_count_excluding_this_manifest": 13,
+  "validation": {
+    "format_and_yaml": "PASS",
+    "local_links_checked": 22,
+    "professional_work_modes": 9,
+    "behavioral_scenarios": 6,
+    "observed_project_context_issue": "修复并在独立上下文复测通过",
+    "storyboard_csv": "5镜连续15秒，16列读回通过",
+    "real_media_services_tested": false,
+    "license_preserved": true
+  },
+  "files": [
+    {
+      "path": "LICENSE.md",
+      "bytes": 1066,
+      "sha256": "d5ebe7157ff8cc82e186fab498fcd2f9b80f3dcd3fac6e7507c4b644494e0b86"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3969,
+      "sha256": "dcd1965ceaf9308a26408c80defff05d9c1f52cb0f3fd1a40b048d4d09353717"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 5631,
+      "sha256": "a9d6c855260093fa1c1b9a672f188bfc0fc86409fe75a5aac5da34adfcc3950f"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "bytes": 358,
+      "sha256": "b4fcfc00e2e66459c0c17a47a7399f4f4aa78673a4ef68780bcf4f7959d9e49f"
+    },
+    {
+      "path": "agents/universal-prompt.md",
+      "bytes": 1653,
+      "sha256": "0f6d5a81a73e545d8993d1436f279615f02f8b18c583e221639cf546dd5eb12a"
+    },
+    {
+      "path": "assets/templates/task-prompt-template.md",
+      "bytes": 2033,
+      "sha256": "8d94c5d026f783ff181d5073cdbea04f4db8621852dda6269a8bfc4a28f36174"
+    },
+    {
+      "path": "assets/templates/tvc-output-templates.md",
+      "bytes": 6372,
+      "sha256": "56fe73accf36ae32330ea994c09d03d2c6625a2bd3d4386d293f162764365751"
+    },
+    {
+      "path": "references/brief-routing.md",
+      "bytes": 4967,
+      "sha256": "b81269887dcbc821df2016c0a2bfac192590a67c8c4abf0a117b465fb5fa6072"
+    },
+    {
+      "path": "references/host-adapters.md",
+      "bytes": 6162,
+      "sha256": "a64dae98fd3caaba988752833292ecb2891b9e01968c070a328d55f8f9d81e49"
+    },
+    {
+      "path": "references/language-policy.md",
+      "bytes": 4008,
+      "sha256": "4b2d2741a07efdc327af92ced446bb6d13bd2daee0a4289e4dcd22baf4713397"
+    },
+    {
+      "path": "references/production-control.md",
+      "bytes": 6374,
+      "sha256": "3208cdaa7c0b414766e50a066ce4b4070a76634c438f1d980011bbde9b0a2952"
+    },
+    {
+      "path": "references/topic-direction.md",
+      "bytes": 3187,
+      "sha256": "d51d4989ff7d9a329fbbcfec490067d92453b3ebe1525d07380465295b506cd2"
+    },
+    {
+      "path": "references/workflows.md",
+      "bytes": 16258,
+      "sha256": "7b72871d8c8a0faf3c60d07fd5521f9edf815287eeb71130251c8b345bb49926"
+    }
+  ]
+}
