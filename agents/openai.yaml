@@ -1,0 +1,6 @@
+interface:
+  display_name: "TVC AI Director 通用广告导演"
+  short_description: "适用于画布及通用智能体的中文广告导演技能，涵盖创意、分镜、制作与审片"
+  default_prompt: "使用 $tvc-ai-director-universal，按当前阶段与真实工具能力完成我的广告影片任务。"
+policy:
+  allow_implicit_invocation: true
